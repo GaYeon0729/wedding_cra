@@ -1,0 +1,35 @@
+리액트 앱 설치하기
+Create React App
+
+node.js
+프로그램을 설치하는 전용패키지 
+npm (Node Package Management or Node Package Manager)
+create-react-app
+
+npm 설치(install) create-react-app
+
+npm install -g create-react-app
+간소화 시키면,
+npm i -g create-react-app
+
+터미널창을 깨끗하게 하는건,
+clear
+
+버전확인,
+create-react-app --version
+
+앱제작
+create-react-app app 
+
+127.0.0.1:3000 (localhost는 127.0.0.1)
+
+컴포넌트 설계
+
+components
+
+WrapComponent.jsx
+HeaderComponent.jsx
+MainComponent.jsx
+FooterComponent.jsx
+ModalComponent.jsx
+GotopComponent.jsx
